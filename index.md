@@ -146,7 +146,7 @@
                 </div>
             </section>
             <div id="homeBlockField" class="show" style="margin-top: 0px;">
-                <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Freeform Content"
+                <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Copyright @Amiyaz 2022"
                     data-type="block-field" data-updated-on="1406756752707" id="homeBlocks">
                     <div class="row sqs-row">
                         <div class="col sqs-col-12 span-12">
@@ -154,7 +154,7 @@
                                 id="block-yui_3_17_2_1_1406756587384_36523">
                                 <div class="sqs-block-content">
                                     <h1 class="text-align-center" data-shrink-original-size="26"
-                                        style="letter-spacing: 0.0384615em;">Aubrey + Paul</h1>
+                                        style="letter-spacing: 0.0384615em;">Amiyaz & Amiyaz</h1>
                                 </div>
                             </div>
                         </div>
