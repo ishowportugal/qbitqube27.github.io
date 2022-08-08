@@ -137,27 +137,6 @@
             <div>
                         <!-- ADDED FOR ONET.PL SO THEY WILL UNLIST US FROM THEIR EMAIL BLACKLIST -->
                         <code style="white-space: pre-wrap; display: block; text-align: left; position: absolute; top: 100%; padding: 50px">
-About me:
-
-Im just a student currently studying in SIngapore
-
-I can code in the following programming languages:
-- Python
-- Java
-- C++
-- Haskell
-- Pascal
-- BF
-- Swift
-
-and also code the following markup languages(or whatever you guys call them):
-- HTML
-- CSS
-
-Feel free to ask me anything regarding coding; I will be happy to help 😃
-
-
-This website includes email and other methods of communication.
 </code>
             </div>
             <!--CONTENT INJECTION POINT-->
