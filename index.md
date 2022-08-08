@@ -118,8 +118,9 @@
             <div id="title-area" class="show" style="margin-top: -323px;">
                 <h1 class="site-title" data-content-field="site-title" data-shrink-original-size="120">
                     <a href="https://amiihub.github.io/">
-                        <img class="site-title-image" src="https://avatars.githubusercontent.com/u/105401901?v=4" alt="AmiiHub">
-                    </a>
+                        <img class="site-title-image" src="https://user-images.githubusercontent.com/105401901/183384220-210b622a-3e4c-4339-ba6a-6658a1a50ba2.png">
+                    </a>!
+
                 </h1>
                 <p class="site-tagline" data-shrink-original-size="24" style="letter-spacing: 0.416667em;">
                     code/Study/Osu!</p>
