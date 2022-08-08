@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"
     xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope="" itemtype="http://schema.org/WebPage"
     class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths"
