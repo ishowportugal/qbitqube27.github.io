@@ -130,7 +130,7 @@
                         </a>
                     </p>
                     <p class="email" data-shrink-original-size="19" style="letter-spacing: 0.210526em;"><a
-                            href="mailto:mohamadamiyaz@gmail.com">contact@ppy.sh</a></p>
+                            href="mailto:mohamadamiyaz@gmail.com">mohamadamiyaz@gmail.com</a></p>
                 </div>
             </div>
             <div>
