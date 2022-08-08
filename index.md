@@ -156,7 +156,7 @@ and also code the following markup languages(or whatever you guys call them):
 Feel free to ask me anything regarding coding; I will be happy to help 😃
 
 
-Email and other modes of contact are provided in this website.
+This website includes email and other methods of communication.
 </code>
             </div>
             <!--CONTENT INJECTION POINT-->
