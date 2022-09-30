@@ -85,7 +85,7 @@
                                 </svg>
                             </div>
                         </a></li>
-                    <li><a href="http://instagram.com/amiyazofficial" target="_blank" class="sqs-svg-icon--wrapper instagram">
+                    <li><a href="http://instagram.com/demonical__" target="_blank" class="sqs-svg-icon--wrapper instagram">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
@@ -93,7 +93,7 @@
                                 </svg>
                             </div>
                         </a></li>
-                    <li><a href="http://twitch.tv/miraclekrunker" target="_blank" class="sqs-svg-icon--wrapper twitch">
+                    <li><a href="http://twitch.tv/supacoolstreamer777" target="_blank" class="sqs-svg-icon--wrapper twitch">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#twitch-icon"></use>
@@ -101,7 +101,7 @@
                                 </svg>
                             </div>
                         </a></li>
-                    <li><a href="https://github.com/AmiiHub" target="_blank" class="sqs-svg-icon--wrapper github">
+                    <li><a href="https://github.com/dmeonicla" target="_blank" class="sqs-svg-icon--wrapper github">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#github-icon"></use>
