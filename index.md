@@ -69,7 +69,7 @@
             </nav>
             <nav class="social social-links sqs-svg-icon--list" data-content-field="connected-accounts">
                 <ul>
-                    <li><a href="mailto:mohamadamiyaz@gmail.com" target="_blank" class="sqs-svg-icon--wrapper email">
+                    <li><a href="mailto:amiyaz@mail.com" target="_blank" class="sqs-svg-icon--wrapper email">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#email-icon"></use>
@@ -85,7 +85,7 @@
                                 </svg>
                             </div>
                         </a></li>
-                    <li><a href="http://instagram.com/demonical__" target="_blank" class="sqs-svg-icon--wrapper instagram">
+                    <li><a href="http://instagram.com/ohmyxcad" target="_blank" class="sqs-svg-icon--wrapper instagram">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
@@ -93,7 +93,7 @@
                                 </svg>
                             </div>
                         </a></li>
-                    <li><a href="http://twitch.tv/supacoolstreamer777" target="_blank" class="sqs-svg-icon--wrapper twitch">
+                    <li><a href="http://twitch.tv/hismajestychocomint" target="_blank" class="sqs-svg-icon--wrapper twitch">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#twitch-icon"></use>
@@ -101,7 +101,7 @@
                                 </svg>
                             </div>
                         </a></li>
-                    <li><a href="https://github.com/dmeonicla" target="_blank" class="sqs-svg-icon--wrapper github">
+                    <li><a href="https://github.com/ohmyxcad" target="_blank" class="sqs-svg-icon--wrapper github">
                             <div>
                                 <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
                                     <use class="sqs-use--icon" xlink:href="#github-icon"></use>
@@ -117,7 +117,7 @@
             <div id="title-area" class="show" style="margin-top: -323px;">
                 <h1 class="site-title" data-content-field="site-title" data-shrink-original-size="120">
                     <a href="https://amiihub.github.io/">
-                        <img class="site-title-image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.ifunny.co%2Fimages%2Fa21689a3f1299a73445ab459cf2c64b36a0329b8a274fdaa7d0799db52323d7b_1.jpg&f=1&nofb=1">
+                        <img class="site-title-image" src="https://avatars.githubusercontent.com/u/105401901?v=4">
                     </a>!
 
                 </h1>
